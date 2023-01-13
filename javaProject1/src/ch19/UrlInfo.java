@@ -3,6 +3,7 @@ package ch19;
 import java.net.URL;
 
 public class UrlInfo {
+	//git에 올려 확인해볼주석
 public static void main(String[] args) {
 	try {
 		// new URL(url주소);
